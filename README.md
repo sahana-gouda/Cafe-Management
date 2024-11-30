@@ -23,14 +23,7 @@ To view or edit this project, ensure you have:
 - A code editor (e.g., VS Code, Sublime Text)
 - A web browser (e.g., Chrome, Firefox)
 
-### Steps to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sahana-gouda/Cafe Delight.git
-##  Structure
-cafe-order-panel/
-│
-├── index.html        # Main HTML file
-├── styles.css        # External CSS file for styling
+
+
 
 
